@@ -1,4 +1,3 @@
-hheheheheheheh assembly codeee:
 ;program to add two 16 bit numbers
 ;db define byte - 18 bit
 ;dw define word - 16 bit
