@@ -46,6 +46,4 @@ Follow these steps to install and configure TASM:
 
 - Make sure to test your assembly code in an emulator or on actual hardware if available.
 
----
 
-Feel free to explore and contribute to these repositories. Happy coding!
