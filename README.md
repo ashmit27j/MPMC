@@ -2,22 +2,12 @@
 
 This repository contains code and projects related to **Microprocessors and Microcontrollers**, written in **assembly language**. It includes programs for basic operations, interfacing, and hardware control using TASM.
 
-## 📌 Repository Overview
+## Repository Overview
 
 - **Purpose**: To learn and document programming for microprocessors and microcontrollers.
 - **Languages Used**: Assembly language.
 
-## 🚀 Cloning the Repository
-
-To clone this repository, run the following command:
-
-```bash
-git clone https://github.com/your-username/microprocessors-microcontrollers.git
-```
-
-Replace `your-username` with your GitHub username.
-
-## 🔧 Setting Up TASM
+## Setting Up TASM
 
 Follow these steps to install and configure TASM:
 
@@ -41,9 +31,3 @@ Follow these steps to install and configure TASM:
    - Download the TASM package and extract it.
 3. **Run TASM in DOSBox**:
    - Use DOSBox to navigate to the folder and execute TASM commands.
-
-## 📘 Notes
-
-- Make sure to test your assembly code in an emulator or on actual hardware if available.
-
-
